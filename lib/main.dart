@@ -4,8 +4,7 @@ import 'package:provider/provider.dart';
 void main() => runApp(MyApp());
 
 class MyApp extends StatelessWidget {
-
-  String message = "Goodbye";
+  
   final myController = TextEditingController();
 
   @override
